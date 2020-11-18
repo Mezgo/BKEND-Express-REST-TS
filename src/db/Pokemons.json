@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Squirtle",
+        "number": 7,
+        "type": [{
+            "name": "Agua", "strongAgainst": ["Tierra"], "weakAgainst": ["Planta","Electrico"]
+        }],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+
+    {
+        "name": "Bulbasaur",
+        "number": 1,
+        "type": [{
+            "name": "Planta", "strongAgainst": ["Agua","Tierra"], "weakAgainst": ["Fuego"]
+        }],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+
+    {
+        "name": "Charmander",
+        "number": 4,
+        "type": [{
+            "name": "Fuego", "strongAgainst": ["Planta","Bicho"], "weakAgainst": ["Agua","Tierra","Roca"]
+        }],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+
+    {
+        "name": "Lucario",
+        "number": 448,
+        "type": [{
+            "name": "Lucha", "strongAgainst": ["Normal","Roca","Tierra","Agua","Hielo"], "weakAgainst": ["Fuego","Lucha","Tierra"]
+        }],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
+    },
+
+    {
+        "name": "Blaziken",
+        "number": 257,
+        "type": [{
+            "name": "Fuego", "strongAgainst": ["Electrico","Acero","Tierra","Siniestro","Hielo","Planta"], "weakAgainst": ["Agua","Psiquico","Volador","Tierra"]
+        }],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png"
+    }
+
+]
